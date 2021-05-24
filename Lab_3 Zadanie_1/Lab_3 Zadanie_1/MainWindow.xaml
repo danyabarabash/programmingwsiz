@@ -1,0 +1,22 @@
+﻿<Window x:Class="Lab_3_Zadanie_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab_3_Zadanie_1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid RenderTransformOrigin="0.5,0.5">
+        <Label Content="Podaj a" HorizontalAlignment="Left" Margin="120,69,0,0" VerticalAlignment="Top" Height="29" FontSize="18" FontWeight="Bold"/>
+        <Label Content="Podaj b" HorizontalAlignment="Left" Margin="120,119,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold"/>
+        <TextBox x:Name="tBox1" HorizontalAlignment="Left" Margin="228,69,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="132" Height="33" TextChanged="TextBox_TextChanged" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="16" FontWeight="Bold"/>
+        <Button x:Name="Suma" Content="Suma" HorizontalAlignment="Left" Margin="120,0,0,0" VerticalAlignment="Center" Height="39" Width="104" FontWeight="Bold" FontSize="14" Click="Button_Click"/>
+        <Button x:Name="Iloraz" Content="Iloraz " HorizontalAlignment="Left" Margin="554,0,0,0" VerticalAlignment="Center" Height="39" Width="104" FontSize="14" FontWeight="Bold" Click="Iloraz_Click"/>
+        <Button x:Name="Iloczyn" Content="Iloczyn" HorizontalAlignment="Left" Margin="410,0,0,0" VerticalAlignment="Center" Height="39" Width="104" FontSize="14" FontWeight="Bold" Click="Iloczyn_Click"/>
+        <Button x:Name="Roznica" Content="Różnica" HorizontalAlignment="Left" Margin="256,0,0,0" VerticalAlignment="Center" Height="39" Width="104" FontSize="14" FontWeight="Bold" Click="Roznica_Click"/>
+        <Label Content="Wynik:" HorizontalAlignment="Left" Margin="108,355,0,0" VerticalAlignment="Top" Height="29" Width="59" FontSize="16"/>
+        <TextBox x:Name="tbWynik" HorizontalAlignment="Left" Margin="172,355,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="209" Height="33" RenderTransformOrigin="-0.892,1.437" TextChanged="TextBox_TextChanged_3" FontSize="16" FontWeight="Bold" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="tBox2" HorizontalAlignment="Left" Margin="228,119,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="132" Height="35" TextChanged="TextBox_TextChanged_2" FontSize="16" FontWeight="Bold" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+
+    </Grid>
+</Window>
