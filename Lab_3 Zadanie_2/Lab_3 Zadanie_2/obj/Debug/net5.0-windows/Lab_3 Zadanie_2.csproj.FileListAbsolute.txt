@@ -1,0 +1,19 @@
+C:\Users\Dania\source\repos\Lab_3 Zadanie_2\Lab_3 Zadanie_2\bin\Debug\net5.0-windows\Lab_3 Zadanie_2.exe
+C:\Users\Dania\source\repos\Lab_3 Zadanie_2\Lab_3 Zadanie_2\bin\Debug\net5.0-windows\Lab_3 Zadanie_2.deps.json
+C:\Users\Dania\source\repos\Lab_3 Zadanie_2\Lab_3 Zadanie_2\bin\Debug\net5.0-windows\Lab_3 Zadanie_2.runtimeconfig.json
+C:\Users\Dania\source\repos\Lab_3 Zadanie_2\Lab_3 Zadanie_2\bin\Debug\net5.0-windows\Lab_3 Zadanie_2.runtimeconfig.dev.json
+C:\Users\Dania\source\repos\Lab_3 Zadanie_2\Lab_3 Zadanie_2\bin\Debug\net5.0-windows\Lab_3 Zadanie_2.dll
+C:\Users\Dania\source\repos\Lab_3 Zadanie_2\Lab_3 Zadanie_2\bin\Debug\net5.0-windows\ref\Lab_3 Zadanie_2.dll
+C:\Users\Dania\source\repos\Lab_3 Zadanie_2\Lab_3 Zadanie_2\bin\Debug\net5.0-windows\Lab_3 Zadanie_2.pdb
+C:\Users\Dania\source\repos\Lab_3 Zadanie_2\Lab_3 Zadanie_2\obj\Debug\net5.0-windows\Lab_3 Zadanie_2.csprojAssemblyReference.cache
+C:\Users\Dania\source\repos\Lab_3 Zadanie_2\Lab_3 Zadanie_2\obj\Debug\net5.0-windows\Lab_3_Zadanie_2.Form1.resources
+C:\Users\Dania\source\repos\Lab_3 Zadanie_2\Lab_3 Zadanie_2\obj\Debug\net5.0-windows\Lab_3_Zadanie_2.Properties.Resources.resources
+C:\Users\Dania\source\repos\Lab_3 Zadanie_2\Lab_3 Zadanie_2\obj\Debug\net5.0-windows\Lab_3 Zadanie_2.csproj.GenerateResource.cache
+C:\Users\Dania\source\repos\Lab_3 Zadanie_2\Lab_3 Zadanie_2\obj\Debug\net5.0-windows\Lab_3 Zadanie_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dania\source\repos\Lab_3 Zadanie_2\Lab_3 Zadanie_2\obj\Debug\net5.0-windows\Lab_3 Zadanie_2.AssemblyInfoInputs.cache
+C:\Users\Dania\source\repos\Lab_3 Zadanie_2\Lab_3 Zadanie_2\obj\Debug\net5.0-windows\Lab_3 Zadanie_2.AssemblyInfo.cs
+C:\Users\Dania\source\repos\Lab_3 Zadanie_2\Lab_3 Zadanie_2\obj\Debug\net5.0-windows\Lab_3 Zadanie_2.csproj.CoreCompileInputs.cache
+C:\Users\Dania\source\repos\Lab_3 Zadanie_2\Lab_3 Zadanie_2\obj\Debug\net5.0-windows\Lab_3 Zadanie_2.dll
+C:\Users\Dania\source\repos\Lab_3 Zadanie_2\Lab_3 Zadanie_2\obj\Debug\net5.0-windows\ref\Lab_3 Zadanie_2.dll
+C:\Users\Dania\source\repos\Lab_3 Zadanie_2\Lab_3 Zadanie_2\obj\Debug\net5.0-windows\Lab_3 Zadanie_2.pdb
+C:\Users\Dania\source\repos\Lab_3 Zadanie_2\Lab_3 Zadanie_2\obj\Debug\net5.0-windows\Lab_3 Zadanie_2.genruntimeconfig.cache
