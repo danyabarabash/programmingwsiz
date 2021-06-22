@@ -1,0 +1,20 @@
+﻿<Window x:Class="WszystkieZadania.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WszystkieZadania"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="dgStudent" Margin="0,51,0,0"/>
+        <Button x:Name="btnAddStudent" Content="AddStudent" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="26" Width="100" Click="btnAddStudent_Click"/>
+        <Button x:Name="btnRemoveStudent" Content="RemoveStudent" HorizontalAlignment="Left" Margin="115,10,0,0" VerticalAlignment="Top" Height="26" Width="100" Click="btnRemoveStudent_Click"/>
+        <Button x:Name="btnSaveToFile" Content="SaveToFile" HorizontalAlignment="Left" Margin="220,10,0,0" VerticalAlignment="Top" Height="26" Width="100" Click="btnSaveToFile_Click"/>
+        <Button x:Name="btnLoadFromFile" Content="LoadFromFile" HorizontalAlignment="Left" Margin="325,10,0,0" VerticalAlignment="Top" Height="26" Width="100" Click="btnLoadFromFile_Click"/>
+        <Button x:Name="btnSaveToXml" Content="SaveToXML" HorizontalAlignment="Left" Margin="430,10,0,0" VerticalAlignment="Top" Height="26" Width="100" Click="btnSaveToXml_Click"/>
+        <Button x:Name="btnLoadFromXML" Content="LoadFromXML" HorizontalAlignment="Left" Margin="535,10,0,0" VerticalAlignment="Top" Height="26" Width="100" Click="btnLoadFromXML_Click"/>
+        <Button x:Name="btnReadSomeValue" Content="ReadSomeValue" HorizontalAlignment="Left" Margin="690,10,0,0" VerticalAlignment="Top" Height="26" Width="100" Click="btnReadSomeValue_Click"/>
+
+    </Grid>
+</Window>
