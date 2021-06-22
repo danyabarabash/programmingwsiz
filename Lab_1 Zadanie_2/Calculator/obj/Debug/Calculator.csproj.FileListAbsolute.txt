@@ -1,0 +1,29 @@
+C:\Users\Игорь\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Игорь\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Игорь\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Игорь\Desktop\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Desktop\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Игорь\Desktop\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Игорь\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Игорь\Desktop\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Игорь\Desktop\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\VIsual Studio\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\VIsual Studio\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\VIsual Studio\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\VIsual Studio\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\VIsual Studio\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\VIsual Studio\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\VIsual Studio\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\VIsual Studio\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\VIsual Studio\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\VIsual Studio\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Dania\source\repos\Lab1z2\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Dania\source\repos\Lab1z2\Calculator\bin\Debug\Calculator.exe
+C:\Users\Dania\source\repos\Lab1z2\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Dania\source\repos\Lab1z2\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Dania\source\repos\Lab1z2\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Dania\source\repos\Lab1z2\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Dania\source\repos\Lab1z2\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Dania\source\repos\Lab1z2\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Dania\source\repos\Lab1z2\Calculator\obj\Debug\Calculator.exe
+C:\Users\Dania\source\repos\Lab1z2\Calculator\obj\Debug\Calculator.pdb
